@@ -1,0 +1,21 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "12.14.0"
+  },
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
